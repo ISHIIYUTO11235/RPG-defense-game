@@ -1,0 +1,71 @@
+/*main canvas{
+  margin: auto;
+}
+
+
+*/
+body{
+  background:#FFFFCC;
+}
+
+canvas{
+
+
+}
+
+main{
+  width:320px;
+  margin:auto;
+  position: relative;
+
+
+}
+
+.btn-wrapper{
+  position:relative;
+}
+
+.btn{
+
+  width:70px;
+  height:70px;
+  border:3px solid black;
+
+}
+
+#frontBtn{
+  position:absolute;
+  top:0;
+  left:110px;
+
+}
+
+#rightBtn{
+  position: absolute;
+  top:80px;
+  left:190px;
+
+
+}
+
+#backBtn{
+  position: absolute;
+  top:80px;
+  left:110px;
+
+}
+
+#leftBtn{
+  position: absolute;
+
+  top:80px;
+  left:30px;
+
+}
+
+#attackBtn{
+  position:absolute;
+
+  top:0;
+  left:190px;
+}
